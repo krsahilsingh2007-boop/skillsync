@@ -1,0 +1,42 @@
+version: "3.8"
+
+services:
+  ai_companion:
+    build: .
+    container_name: skillsync-ai-companion
+    ports:
+      - "9001:9001"
+    environment:
+      - REDIS_URL=redis://redis:6379/0
+      - EMBEDDING_MODEL=all-MiniLM-L6-v2
+      - SERP_API_KEY=${SERP_API_KEY}
+      - GEMINI_API_KEY=${GEMINI_API_KEY}
+      - FIRECRAWL_API_KEY=${FIRECRAWL_API_KEY}
+    env_file:
+      - .env
+    depends_on:
+      - redis
+    restart: unless-stopped
+    volumes:
+      - .:/app
+    profiles:
+      - dev
+    command: uvicorn app.main:app --host 0.0.0.0 --port 9001 --reload
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+
+  redis:
+    image: redis:7-alpine
+    container_name: skillsync-companion-redis
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+    volumes:
+      - redis_data:/data
+
+volumes:
+  redis_data:

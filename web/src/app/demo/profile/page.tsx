@@ -90,10 +90,10 @@ function ResponsiveDialog({ open, onOpenChange, trigger, children, title, descri
 }
 
 const userProfile = {
-    name: "Saad Mohammed",
-    email: "saad.mohammed@example.com",
-    phone: "+91 98765 43210",
-    location: "Mumbai, Maharashtra",
+    name: "Sahil Kumar",
+    email: "krsahilsingh2007@gmail.com",
+    phone: "7549537756",
+    location: "Kharar, Punjab",
     joinedDate: "January 2025",
     avatar: "SM",
     level: 8,

@@ -78,7 +78,7 @@ const parsePriorKnowledge = (text: string) => {
     const rankMatch = text?.match(/\[Rank:\s*(\d+)\]/);
     
     return {
-        phone: phoneMatch ? phoneMatch[1] : "+91 98765 43210",
+        phone: phoneMatch ? phoneMatch[1] : "7549537756",
         streak: streakMatch ? parseInt(streakMatch[1]) : 12,
         level: levelMatch ? parseInt(levelMatch[1]) : 8,
         points: pointsMatch ? parseInt(pointsMatch[1]) : 2450,
@@ -108,7 +108,7 @@ const buildPriorKnowledge = (
     // Clean up Location tag if it exists in database
     delete tags["Location"];
 
-    if (!tags["Phone"]) tags["Phone"] = currentProfile.phone || "+91 98765 43210";
+    if (!tags["Phone"]) tags["Phone"] = currentProfile.phone || "7549537756";
     if (!tags["Streak"]) tags["Streak"] = String(currentProfile.streak || 12);
     if (!tags["Level"]) tags["Level"] = String(currentProfile.level || 8);
     if (!tags["Points"]) tags["Points"] = String(currentProfile.points || 2450);
@@ -193,9 +193,9 @@ function ResponsiveDialog({ open, onOpenChange, trigger, children, title, descri
 }
 
 const DEFAULT_PROFILE = {
-    name: "Saad Mohammed",
-    email: "saad.mohammed@example.com",
-    phone: "+91 98765 43210",
+    name: "Sahil Kumar",
+    email: "krsahilsingh2007@gmail.com",
+    phone: "7549537756",
     joinedDate: "January 2025",
     avatar: "SM",
     level: 8,
@@ -339,7 +339,7 @@ export default function Profile() {
                 style: "Self-paced",
                 timeCommitment: "1-2 hours/day",
             };
-            let phone = "+91 98765 43210";
+            let phone = "7549537756";
             let priorKnowledgeText = "";
 
             if (learnerRes.success && learnerRes.data) {

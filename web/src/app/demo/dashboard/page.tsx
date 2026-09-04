@@ -36,7 +36,7 @@ import { siteConfig } from "@/config/site";
 export default function Dashboard() {
     const router = useRouter();
     const [userData, setUserData] = React.useState({
-        name: "Saad Mohammed",
+        name: "Sahil Kumar",
         education: "Bachelor's Degree",
         careerGoal: "Software Development",
         skillLevel: "Beginner",

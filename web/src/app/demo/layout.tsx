@@ -269,7 +269,7 @@ function DemoSidebar({ children }: { children: React.ReactNode }) {
                   SM
                 </div>
                 <div className="flex-1 min-w-0 pr-1">
-                  <p className="text-sm font-medium truncate">Saad Mohammed</p>
+                  <p className="text-sm font-medium truncate">Sahil Kumar</p>
                   <p className="text-xs text-muted-foreground">Level 8 • 2,450 pts</p>
                 </div>
               </Link>

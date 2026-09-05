@@ -266,7 +266,7 @@ function DemoSidebar({ children }: { children: React.ReactNode }) {
                   }`}
               >
                 <div className="w-9 h-9 rounded-full bg-violet-100 dark:bg-violet-900/30 flex items-center justify-center font-semibold text-sm shrink-0">
-                  SM
+                  SK
                 </div>
                 <div className="flex-1 min-w-0 pr-1">
                   <p className="text-sm font-medium truncate">Sahil Kumar</p>

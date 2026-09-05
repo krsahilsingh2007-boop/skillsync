@@ -269,7 +269,7 @@ docker-compose up -d --build
 Image is automatically built and pushed on changes:
 
 ```
-ghcr.io/krsahilsingh2007-boop/skillsync/b1-core:latest
+ghcr.io/krsahilkumar2007-boop/skillsync/b1-core:latest
 ```
 
 To pull:

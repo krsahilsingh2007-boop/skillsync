@@ -8,9 +8,9 @@ export const siteConfig = {
     "Your personalized roadmap to future-ready skills.",
   links: {
     twitter: "",
-    github: "https://github.com/krsahilsingh2007-boop/skillsync",
-    email: "mailto:reach.saad@outlook.com",
-    phone: "",
+    github: "https://github.com/krsahilkumar2007-boop/skillsync",
+    email: "krsahilsingh2007@gmail.com",
+    phone: "7549537756",
   },
 };
 

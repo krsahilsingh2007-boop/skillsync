@@ -13,7 +13,7 @@
 ### 1. Pull the Latest Image
 
 ```bash
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```
 
 ### 2. Run the Container
@@ -22,7 +22,7 @@ docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
 docker run -d \
   --name skillsync-b3-ai-companion \
   -p 9001:9001 \
-  ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+  ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```
 
 ### Development (Hot Reload)
@@ -79,7 +79,7 @@ version: "3.8"
 
 services:
   ai_companion:
-    image: ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+    image: ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
     container_name: skillsync-b3-ai-companion
     ports:
       - "9001:9001"
@@ -142,13 +142,13 @@ docker run -d \
 
 ```bash
 # Pull latest
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 
 # Restart
 docker stop skillsync-b3-ai-companion
 docker rm skillsync-b3-ai-companion
 docker run -d --name skillsync-b3-ai-companion -p 9001:9001 \
-  ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+  ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```
 
 ---
@@ -172,5 +172,5 @@ docker-compose up --build
 ## Image Location
 
 ```
-ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```

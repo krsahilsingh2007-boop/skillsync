@@ -95,7 +95,7 @@ const userProfile = {
     phone: "7549537756",
     location: "Kharar, Punjab",
     joinedDate: "January 2025",
-    avatar: "SM",
+    avatar: "SK",
     level: 8,
     points: 2450,
     rank: 42,

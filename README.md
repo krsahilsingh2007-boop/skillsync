@@ -1,113 +1,38 @@
+<p align="center">
+  <img
+    src="assets/skillsync-banner.png"
+    alt="SkillSync — Labour Market Intelligence & Curriculum-Alignment Platform"
+    width="1440"
+  />
+</p>
 
+<p align="center">
+  <strong>SkillSync — Labour Market Intelligence & Curriculum-Alignment Platform</strong>
+</p>
 
-<h1 align="center">
-  <a href="https://github.com/krsahilsingh2007-boop/skillsync/">
-    <img width="1440" height="310" alt="🎓 AI-Powered NSQF-Integrated Learning Ecosystem" src="https://github.com/user-attachments/assets/4b6c3f0a-c9e0-46de-aa05-34711124a6eb" />
- </a>
-</h1>
-
-> <p align="center">🚨 <strong>"Design and development of an AI-powered learning path generator, Vocational Pathway Navigator with Dynamic Career Intelligence and NSQF-Integrated Learning Ecosystem"</strong></p>
-
-<div align="center">
-
-<a href="https://skillsync.vercel.app/" target="_blank">
-    <img  style="width:350px;" src="https://img.shields.io/badge/🚀_Access_the_Prototype_Here-Live-brightgreen?style=for-the-badge&labelColor=8000FF" alt="Access the Prototype Here"  />
-</a>
-
-![Phase](https://img.shields.io/badge/🛠️%20Phase-In%20Development-blue?style=for-the-badge)
-![Platforms](https://img.shields.io/badge/🌐%20Platforms-Web%20%7C%20Android*-28a745?style=for-the-badge)
-
-</div>
-
-## 🔹 Hackathon Origins
-
-SkillSync originally started as a hackathon project for **SIH 2025 (Smart India Hackathon)** by the **SkillSync Team** team. It was also built for the **SUDHEE CBIT Hackathon 2026**. Over time, it has evolved into a robust, AI-powered career navigation and labor market matching platform.
-
-### 🏆 Built for SIH 2025 (Smart India Hackathon) as a Prototype
-
+<p align="center">
+  Smart India Hackathon 2026 · Problem Statement PS26134
+</p>
 
 ## 💡 Proposed Solution
 
+SkillSync is a Labour Market Intelligence & Curriculum-Alignment Platform. It focuses on Maharashtra-first workforce intelligence to address modern skilling gaps by dynamically aligning curriculum with real-time industry demands.
+
 ### ✨ Key Features
 
-- **Smart Pathway Engine** – AI analyzes learner profiles to generate personalized NSQF-aligned career routes
-- **AI Matching Engine** – Smart course/curriculum matching based on user's input
-- **Career Journey Gamification** – Achievement unlocks, skill mastery levels, industry challenges & leaderboards
-- **AI Learning Companion** – Real-time guidance, industry alerts, skill forecasts & content recommendations
-
-### 🎯 Problem Resolution
-
-- **Personalized NSQF Pathways** – AI matches 50+ learner parameters to 139+ government courses with 95% accuracy
-- **Real-Time Market Alignment** – Dynamic integration with labor market intelligence ensures pathway recommendations adapt to industry demands, emerging skills, and regional employment opportunities
-- **Multilingual Accessibility** – 12+ Indian languages with voice navigation for diverse demographics
-
-### 🔥 Unique Value Propositions
-
-- **Predictive Career Intelligence** – AI forecasts employment probability & salary potential with 3-5 year projections
-- **Adaptive Pathway Evolution** – Routes auto-adjust based on progress, industry changes & skill demands
-- **Gamified Engagement** – Duels and streaks
-- **Cross-Sector Mobility** – AI identifies transferable skills enabling seamless career transitions
-
-
-
-## 📊 Feasibility and Viability
-
-### ✅ **Why It Works**
-- **High Demand** – Diverse learner backgrounds demand tailored skilling pathways
-- **Industry Alignment** – Labour market intelligence ensures relevance to evolving job roles
-- **Future-Proofing** – Adaptive AI pathways enable lifelong learning and stackable skills
-- **Institutional Backing** – NCVET & MSDE integration provides credibility and adoption push
-
-### ⚠️ **Current Challenges & Risks**
-- **User Trust:** Learners may hesitate to rely on AI-driven career guidance
-- **Data Accuracy:** Incomplete or outdated learner and labour market data may reduce recommendation quality
-- **Bias & Fairness:** Risk of unequal opportunities if algorithms favor certain demographics or regions
-- **Long-Term Adoption:** Sustaining engagement as career needs evolve requires continuous system updates
-
-### 🛡️ **Strategies to Overcome**
-- **Trust Building:** Explainable AI, counselor support, and transparent recommendation logic
-- **Data Quality:** Regular updates from NSQF, labour market intelligence, and verified providers
-- **Fairness & Equity:** Bias audits, inclusive design, and multilingual accessibility
-- **Sustained Engagement:** Adaptive pathways, career milestone tracking, and continuous upskilling prompts
-
-## 📚 Research & References
-
-### Key Supporting Market Facts
-- **75%** of Indian learners gain career benefits from AI-driven personalized paths
-- **90%** of employers prioritize NSQF-aligned micro-credentials in hiring
-- India's EdTech market expected to surpass **$10B by 2025**, led by mobile-first apps
-- AI-led adaptive learning speeds up skill acquisition by **30-40%** versus traditional means
-- **1+ billion** Indian workers need reskilling by 2030 due to tech change and automation
-
-### Research Validation
-- **AI Personalization:** AI creates customized learning paths that boost engagement and results  
-  *[[Frontiers in Education 2024](https://www.frontiersin.org/articles/10.3389/feduc.2024.1424386/full) | [Emerald AI in Education](https://www.emerald.com/insight/content/doi/10.1108/XJM-03-2022-0012/full/html)]*
-- **Vocational Skilling & NSQF:** NSQF links vocational training with industry and job market demands  
-  *[[ICRIER NSQF Note](https://icrier.org/pdf/ES/The_National_Skills_Qualification_Framework_in_India.pdf) | [IJFMR NSQF Implementation](https://www.ijfmr.com/papers/2024/6/34118.pdf)]*
-- **Labour Market Intelligence:** Real-time labour data integration is vital for future-ready skills  
-  *[[India Employer Forum 2025](https://indiaemployerforum.org/world-of-work/insights-from-teamlease-edtech-career-outlook-report-hy2-july-december-2025/) | [Economic Times EdTech](https://education.economictimes.indiatimes.com/news/higher-education/future-ready-india-how-edtech-can-develop-the-workforce/119411774)]*
-- **India EdTech Growth:** EdTech is a $10B+ market growing quickly with AI-powered, mobile-first solutions  
-  *[[Market Research Future](https://www.marketresearchfuture.com/reports/india-edtech-market-46222) | [HolonIQ Charts 2025](https://www.holoniq.com/edtech-in-10-charts)]*
-
-> 💡 **Takeaway:** Research validates the importance of AI-personalized learning, NSQF compliance and scalable secure design for India's skill ecosystem.
-
-## 📈 Success Metrics
-
-- **Pathway Recommendation Accuracy** (Target: 95%)
-- **User Engagement Rate** with AI Learning Companion
-- **NSQF Course Completion Rates**
-- **Employment Outcome Tracking** (6-month post-completion)
-- **Multi-language Adoption Metrics**
-- **Labor Market Alignment Score**
-- **User Satisfaction & Trust Scores**
-
-## 🎯 Impact on Target Audience
-
-- **Students & Youth:** Personalized career pathways aligned with market demands
-- **Job Seekers:** Data-driven career transitions with employment probability forecasts
-- **Working Professionals:** Continuous upskilling with adaptive learning paths
-- **Educational Institutions:** NSQF-integrated curriculum planning support
-- **Government Schemes:** Enhanced effectiveness of Skill India missions through AI optimization
+- **Labour Market Intelligence:** Job and labour-market data ingestion
+- **Skill Extraction and Normalization:** Standardizing skill definitions across sectors
+- **Maharashtra Skill Graph:** Mapping local employment dynamics
+- **Demand/Supply Analysis:** Identifying workforce needs and gaps
+- **Curriculum Alignment:** Ensuring educational paths match market reality
+- **Obsolete Course Detection:** Identifying outdated training modules
+- **District Workforce Intelligence:** Granular regional labor insights
+- **Marathi/Hinglish Intelligence:** Multilingual accessibility and contextual understanding
+- **Evidence Ledger:** Transparent tracking of skills and certifications
+- **Evidence-based Recommendations:** Data-driven learning and hiring matches
+- **Human Approval and Governance:** Secure, moderated platform administration
+- **NSQF Alignment:** Conforming to National Skills Qualifications Framework
+- **Government/Workforce Ecosystem Integration:** Seamless coordination with existing portals
 
 ---
 
@@ -116,256 +41,86 @@ SkillSync originally started as a hackathon project for **SIH 2025 (Smart India 
 | Platform                                                       | Supported? |
 | --------------------------------------------------------------- | ----------- |
 | Web (any browser with JS functionality) + Fully Responsive       | ✅          |
-| [Android](android/) (non-natively through WebView)                | ✅          |
-
-## 🔧 Development
-
+| Android (non-natively through WebView)                          | ✅          |
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 
 - Node.js 18+
-- Python 3.11+
+- Python 3.11
 - Docker & Docker Compose
-- PostgreSQL 15 (for local development)
+- PostgreSQL (for local development)
 
 ### Frontend
 
 ```bash
-cd frontend-web
+cd web
 npm install
-cp .env.template .env.local
 npm run dev
 ```
 
-### Backend Services
-
-> Three microservices (`backend_1-core_service`, `backend_2-ai_engine_service`, `backend_3-ai_companion_service`) handle the split architecture for production. A monolithic `backend/` service is also available and consolidates all functionality into one.
-
-#### Option A: Monolithic Backend (Recommended for simplicity)
+### Backend
 
 ```bash
 cd backend
-python -m venv venv
-venv\Scripts\activate  # Windows
-# source venv/bin/activate  # Linux/Mac
+source .venv/bin/activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 
-Or with Docker:
+## 🏗️ Tech Stack
 
-```bash
-docker compose up -d  # from project root — starts Postgres, Redis, backend, frontend
-```
+### Frontend
+- Next.js 15.5.18
+- React 19
+- TypeScript
+- Tailwind CSS
+- shadcn/radix
 
-#### Option B: Split Microservices (Original)
+### Backend
+- FastAPI
+- SQLAlchemy
+- PostgreSQL
+- Redis
+- Celery
+- ML & Vector-search components
 
-See [DEPLOYMENT_FULL.md](DEPLOYMENT_FULL.md) for complete deployment instructions.
-
-**Production mode:**
-```bash
-cd backend_1-core_service
-docker-compose up -d
-cd ../backend_2-ai_engine_service
-docker-compose up -d
-cd ../backend_3-ai_companion_service
-docker-compose up -d
-```
-
-**Development mode** (with auto-reload on code changes):
-```bash
-cd backend_1-core_service
-docker-compose --profile dev up -d
-cd ../backend_2-ai_engine_service
-docker-compose --profile dev up -d
-cd ../backend_3-ai_companion_service
-docker-compose --profile dev up -d
-```
-
-**Docker Run (Standalone)** — requires PostgreSQL, Redis already running locally:
-
-```bash
-cd backend_1-core_service
-docker build -t skillsync-core .
-docker run -d -p 8000:8000 --name skillsync-core \
-  -e DATABASE_URL=postgresql://postgres:postgres@localhost:5432/skillsync \
-  -e REDIS_URL=redis://localhost:6379/0 \
-  skillsync-core
-```
-
-```bash
-cd backend_2-ai_engine_service
-docker build -t skillsync-ai-engine .
-docker run -d -p 9000:9000 --name skillsync-ai-engine \
-  -e REDIS_URL=redis://localhost:6379/0 \
-  skillsync-ai-engine
-```
-
-```bash
-cd backend_3-ai_companion_service
-docker build -t skillsync-companion .
-docker run -d -p 9001:9001 --name skillsync-companion \
-  -e REDIS_URL=redis://localhost:6379/0 \
-  skillsync-companion
-```
-
-#### Option C: Local Development (No Docker)
-
-Requires PostgreSQL 15+ and Redis 7+ installed locally.
-
-```bash
-cd backend_1-core_service
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-```
-
-#### Hot Reload Development
-
-Code changes are now mounted into containers via volumes. After making code changes:
-
-```bash
-# Rebuild and restart the service
-docker-compose up -d --build
-```
-
-The `--build` flag rebuilds the image to pick up any dependency changes, while volumes mount your local code for live updates.
-
-## 🏗️ Architecture
-
-```mermaid
-graph TB
-    subgraph Clients
-        Web[Web App<br/>Next.js]
-    end
-
-    subgraph "SkillSync Backend Services"
-        
-        subgraph "backend-core :8000"
-            API[Core API<br/>FastAPI]
-            DB[(PostgreSQL)]
-            Redis[(Redis)]
-            Celery[Celery Workers]
-            WS[WebSocket<br/>Real-time]
-        end
-
-        subgraph "backend-2-ai_engine_service :9000"
-            Matcher[AI Matching<br/>Engine]
-            FAISS[FAISS Index]
-            Embed[Sentence<br/>Transformers]
-            Behavior[Behavior<br/>Analyzer]
-        end
-
-        subgraph "/backend_3-ai_companion_service :9001"
-            Chat[AI Companion<br/>Chat]
-            Forecast[Skill<br/>Forecaster]
-            Alerts[Industry<br/>Alerts]
-            Rec[Content<br/>Recommender]
-        end
-    end
-
-    Web --> API
-    Web --> Matcher
-    Web --> Chat
-    
-    API --> DB
-    API --> Redis
-    API --> Celery
-    API --> WS
-    
-    Matcher --> FAISS
-    Matcher --> Embed
-    Matcher --> Behavior
-    
-    Chat --> Forecast
-    Chat --> Alerts
-    Chat --> Rec
-```
-
-### Service Overview
-
-| Service | Port | Technology | Purpose |
-|---------|------|------------|---------|
-| **backend-core** | 8000 | FastAPI + PostgreSQL | User management, actions, notifications, sessions, streaks |
-| **backend-2-ai_engine_service** | 9000 | FastAPI + FAISS | Course matching, behavior analysis, recommendations |
-| **/backend_3-ai_companion_service** | 9001 | FastAPI + Redis | AI chat, skill forecasting, alerts |
-
-### Data Flow
-
-1. **User Actions** → Core API → PostgreSQL + Celery Workers
-2. **Course Matching** → AI Engine → FAISS Vector Search → Semantic Similarity
-3. **AI Companion** → Skill Forecasts + Content Recommendations
-
-### Tech Stack
-
-- **Frontend:** React, Next.js 14, TypeScript, TailwindCSS, shadcn/ui
-- **Backend:** Python FastAPI (3 microservices)
-- **Database:** PostgreSQL 15
-- **Cache/Queue:** Redis 7
-- **AI/ML:** Sentence Transformers, FAISS, scikit-learn
-- **Task Queue:** Celery
-- **Container:** Docker, GitHub Container Registry
-
-## 📱 Screenshots *
-<table> <tr> <td><strong>Landing Page</strong><br><br> <img width="1920" height="1031" alt="image" src="https://github.com/user-attachments/assets/0c859575-1ad2-4d52-964f-4c4da41104f3" /> </td> </tr> </table>
-
-
-
-
-
-
-
-
-
+---
 
 ## 👥 Team
 
-SkillSync is currently maintained by the SkillSync core team.
+**Sahil Kumar**
 
-*Historical Attribution: This project originated as a hackathon project. See LICENSE for original copyright information.*
+SkillSync — Smart India Hackathon 2026 · PS26134
 
-
-## 📊 **Repo Stats**
+## 📊 Repo Stats
 
 <div align="center">
   
-![Repo Size](https://img.shields.io/github/repo-size/krsahilsingh2007-boop/skillsync)
-![Last Commit](https://img.shields.io/github/last-commit/krsahilsingh2007-boop/skillsync)
-![Open Issues](https://img.shields.io/github/issues/krsahilsingh2007-boop/skillsync)
-![Open PRs](https://img.shields.io/github/issues-pr/krsahilsingh2007-boop/skillsync)
-![License](https://img.shields.io/github/license/krsahilsingh2007-boop/skillsync)
-![Forks](https://img.shields.io/github/forks/krsahilsingh2007-boop/skillsync?style=social)
-![Stars](https://img.shields.io/github/stars/krsahilsingh2007-boop/skillsync?style=social)
-![Watchers](https://img.shields.io/github/watchers/krsahilsingh2007-boop/skillsync?style=social)
-![Contributors](https://img.shields.io/github/contributors/krsahilsingh2007-boop/skillsync)
-![Languages](https://img.shields.io/github/languages/count/krsahilsingh2007-boop/skillsync)
-![Top Language](https://img.shields.io/github/languages/top/krsahilsingh2007-boop/skillsync)
+![Repo Size](https://img.shields.io/github/repo-size/krsahilkumar2007-boop/skillsync)
+![Last Commit](https://img.shields.io/github/last-commit/krsahilkumar2007-boop/skillsync)
+![Open Issues](https://img.shields.io/github/issues/krsahilkumar2007-boop/skillsync)
+![Open PRs](https://img.shields.io/github/issues-pr/krsahilkumar2007-boop/skillsync)
+![License](https://img.shields.io/github/license/krsahilkumar2007-boop/skillsync)
+![Forks](https://img.shields.io/github/forks/krsahilkumar2007-boop/skillsync?style=social)
+![Stars](https://img.shields.io/github/stars/krsahilkumar2007-boop/skillsync?style=social)
+![Watchers](https://img.shields.io/github/watchers/krsahilkumar2007-boop/skillsync?style=social)
+![Contributors](https://img.shields.io/github/contributors/krsahilkumar2007-boop/skillsync)
+![Languages](https://img.shields.io/github/languages/count/krsahilkumar2007-boop/skillsync)
+![Top Language](https://img.shields.io/github/languages/top/krsahilkumar2007-boop/skillsync)
 
 </div>
 
 ## ⭐ Star History
 
-<a href="https://www.star-history.com/#krsahilsingh2007-boop/skillsync&Date">
+<a href="https://www.star-history.com/#krsahilkumar2007-boop/skillsync&Date">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=krsahilsingh2007-boop/skillsync&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=krsahilsingh2007-boop/skillsync&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=krsahilsingh2007-boop/skillsync&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=krsahilkumar2007-boop/skillsync&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=krsahilkumar2007-boop/skillsync&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=krsahilkumar2007-boop/skillsync&type=Date" />
  </picture>
 </a>
-
-
-## ✨ Icon
-
-<img style="width:250px;" alt="SkillSyncFavicon" src="https://github.com/user-attachments/assets/0d6be6ca-2e51-46e9-bf24-a3bfcfdd1242" />
-
-
-## 🔰 Banner
-
-<img width="1280" height="640" alt="New Project" src="https://github.com/user-attachments/assets/89519619-ffed-4fe1-b6e2-6fda5730f3d3" />
-
 
 ## 📄 License
 
@@ -380,13 +135,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## ✍️ Endnote
-<p align="center">Developed with 💖 for the SIH 2025 (Smart India Hackathon) and SUDHEE CBIT Hackathon 2026, with heartfelt thanks for the opportunity to build and innovate.</p>
-
----
-
 ## 🏷 Tags  
 
-`#WebApp` `#SmartEducation` `#AIinEducation` `#PersonalizedLearning` `#SkillPathways` `#CareerGuidance` `#NSQFIntegration` `#VocationalEducation` `#AIPathGenerator` `#DigitalLearning` `#AdaptiveLearning` `#GamifiedLearning` `#TokenEconomy` `#AIMatching` `#SkillNavigator` `#FutureSkills` `#EdTechIndia` `#SkillForecasting` `#CareerIntelligence` `#MultilingualAI` `#SIH2025` 
-
-
+`#SkillSync` `#SIH2026` `#PS26134` `#LabourMarketIntelligence` `#SkillGraph` `#CurriculumAlignment` `#WorkforceIntelligence` `#NSQF` `#Maharashtra` `#VocationalEducation` `#Skills` `#Employment` `#AI`

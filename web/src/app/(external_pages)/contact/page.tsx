@@ -76,7 +76,7 @@ export default async function Contact() {
                     rel="noreferrer"
                     className="text-sm font-medium text-primary hover:underline transition-all flex items-center mt-2"
                   >
-                    krsahilsingh2007-boop/skillsync
+                    krsahilkumar2007-boop/skillsync
                   </a>
                 </CardContent>
               </Card>

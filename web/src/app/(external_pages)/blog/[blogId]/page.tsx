@@ -16,7 +16,7 @@ const mediaIcons: Record<string, React.ElementType> = {
   "from-classroom-to-career-bridging-the-skills-gap": GraduationCap,
   "building-your-personal-learning-roadmap-with-ai": Rocket,
   "micro-credentials-the-future-of-skill-verification": ShieldCheck,
-  "skillsync-at-sudhee-cbit-hackathon-2026": Compass,
+  "skillsync-at-smart-india-hackathon-2026": Compass,
 };
 
 const blogPosts = [
@@ -130,20 +130,20 @@ const blogPosts = [
     ],
   },
   {
-    id: "skillsync-at-sudhee-cbit-hackathon-2026",
-    title: "SkillSync at SUDHEE CBIT Hackathon 2026",
-    excerpt: "A behind-the-scenes look at our journey building SkillSync during the SUDHEE CBIT Hackathon and how it evolved into a full-fledged platform.",
+    id: "skillsync-at-smart-india-hackathon-2026",
+    title: "SkillSync at Smart India Hackathon 2026",
+    excerpt: "A behind-the-scenes look at our journey building SkillSync during the Smart India Hackathon and how it evolved into a full-fledged platform.",
     author: "SkillSync Team",
     date: "April 20, 2026",
     readTime: "8 min read",
     category: "Community",
-    tags: ["Hackathon", "SkillSync Team", "SUDHEE"],
+    tags: ["Hackathon", "SkillSync Team", "SIH2026"],
     gradient: "from-violet-500/20 to-indigo-500/20",
     iconColor: "text-violet-500",
     bgColor: "bg-violet-500/10",
     mediaLabel: "Community",
     content: [
-      "SkillSync started as a passion project during the SUDHEE CBIT Hackathon 2026, where the SkillSync Team team came together with a shared vision: make career guidance accessible and personalized for every Indian learner.",
+      "SkillSync started as a passion project during the Smart India Hackathon 2026, where the SkillSync Team team came together with a shared vision: make career guidance accessible and personalized for every Indian learner.",
       "Over the course of the hackathon, the team built the initial prototype — a basic AI-powered recommendation engine that could analyze student profiles and suggest relevant courses. The response from mentors and judges was overwhelmingly positive.",
       "What set SkillSync apart was its focus on bridging the gap between academic learning and industry requirements. The hackathon prototype demonstrated that AI could effectively identify skill gaps and recommend targeted learning paths.",
       "After the hackathon, the team decided to continue developing the platform. Features like labor market integration, real-time skill gap analysis, and personalized roadmaps were added, transforming the prototype into a production-ready platform.",

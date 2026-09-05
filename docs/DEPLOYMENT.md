@@ -44,13 +44,13 @@ docker-compose up -d --build
 
 ```bash
 # Core API
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b1-core:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b1-core:latest
 
 # AI Engine
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b2-ai-engine:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b2-ai-engine:latest
 
 # AI Companion
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```
 
 ---
@@ -173,15 +173,15 @@ version: "3.8"
 
 services:
   core:
-    image: ghcr.io/krsahilsingh2007-boop/skillsync/b1-core:latest
+    image: ghcr.io/krsahilkumar2007-boop/skillsync/b1-core:latest
     # ... other config
 
   ai-engine:
-    image: ghcr.io/krsahilsingh2007-boop/skillsync/b2-ai-engine:latest
+    image: ghcr.io/krsahilkumar2007-boop/skillsync/b2-ai-engine:latest
     # ... other config
 
   ai-companion:
-    image: ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+    image: ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
     # ... other config
 
   watchtower:
@@ -322,13 +322,13 @@ The volumes mount your local code into the container for live updates.
 After GitHub Actions runs, images are available at:
 
 ```
-ghcr.io/krsahilsingh2007-boop/skillsync/b1-core:latest
-ghcr.io/krsahilsingh2007-boop/skillsync/b2-ai-engine:latest
-ghcr.io/krsahilsingh2007-boop/skillsync/b3-ai-companion:latest
+ghcr.io/krsahilkumar2007-boop/skillsync/b1-core:latest
+ghcr.io/krsahilkumar2007-boop/skillsync/b2-ai-engine:latest
+ghcr.io/krsahilkumar2007-boop/skillsync/b3-ai-companion:latest
 ```
 
 To pull:
 ```bash
 echo $GITHUB_TOKEN | docker login ghcr.io -u $GITHUB_USERNAME --password-stdin
-docker pull ghcr.io/krsahilsingh2007-boop/skillsync/b1-core:latest
+docker pull ghcr.io/krsahilkumar2007-boop/skillsync/b1-core:latest
 ```
